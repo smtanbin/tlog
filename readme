@@ -1,0 +1,7 @@
+Library for logging
+
+Initial library 
+
+`import tlog
+log_path = 'path/to/your/logfile.log'
+logger = my_logger.setup_logger(log_path)`
